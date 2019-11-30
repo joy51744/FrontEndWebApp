@@ -10,7 +10,7 @@
 namespace FrontEndWebApp {
     
     
-    public partial class Default {
+    public partial class WebForm01 {
         
         /// <summary>
         /// form1 控制項。
